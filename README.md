@@ -8,13 +8,9 @@
 📌 Project Overview
 ---
 
-The **Candidate Referral Management System** is a full-stack application inspired
-by real-world hiring platforms like Worko. It enables authenticated users to
-refer candidates for job openings, track their hiring status, and view recruitment metrics.
-
-The project demonstrates **end-to-end full-stack development**, including
-authentication, REST APIs, database integration, and a responsive React UI.
-
+The Weather Analytics Dashboard is a frontend-focused application built to demonstrate advanced React architecture, 
+centralized state management, API integration, caching strategies, and interactive data visualization.
+The application allows users to View real-time weather data ,Explore hourly  5–7 day forecasts Analyze temperature , precipitation trends and Search and favorite cities Switch between Celsius and Fahrenheit .
 ---
 
 🚀 Key Features
