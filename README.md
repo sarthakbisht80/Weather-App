@@ -2,7 +2,7 @@
 
 <p align="center"> A modern frontend web application that provides real-time weather insights, detailed forecasts,
   and interactive analytics for multiple cities through a clean, responsive, and data-driven dashboard. </p> 
-<p align="center"> <img src="./public/Dashboard.png" alt="Weather Analytics Dashboard" height="400" width="600" /> </p>
+<p align="center"> <img src="./public/Dashbaord.png" alt="Weather Analytics Dashboard" height="400" width="600" /> </p>
 
 
 📌 Project Overview
@@ -30,6 +30,13 @@ authentication, REST APIs, database integration, and a responsive React UI.
 - 📱 Fully responsive design
 -⚡ Optimized state management with Redux Toolkit
 ---
+
+<h1 align="center">Analytic Page</h1>
+
+<p align="center"> <img src="./public/analy2.png" alt=" Analytics Dashboard" height="400" width="600" /> </p>
+
+<p align="center"> <img src="./public//analy2.png" alt=" Analytics Dashboard" height="400" width="600" /> </p>
+
 
 ## ⚒️ Tech Stack
 
