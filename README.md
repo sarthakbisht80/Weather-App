@@ -7,10 +7,13 @@
 
 📌 Project Overview
 ---
-
-**The Weather Analytics Dashboard is a frontend-focused application built to demonstrate advanced React architecture, 
-centralized state management, API integration, caching strategies, and interactive data visualization.
-The application allows users to View real-time weather data ,Explore hourly  5–7 day forecasts Analyze temperature , precipitation trends and Search and favorite cities Switch between Celsius and Fahrenheit .**
+The Weather Analytics Dashboard is a frontend-focused application built to demonstrate advanced React architecture, centralized state management, API integration, caching strategies, and interactive data visualization.
+The application allows users to:
+- View real-time weather data
+- Explore hourly and 5–7 day forecasts
+- Analyze temperature and precipitation trends
+- Search and favorite cities
+- Switch between Celsius and Fahrenheit
 ---
 
 🚀 Key Features
